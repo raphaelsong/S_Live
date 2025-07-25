@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/S_Live/T1/Content/Maps/DevMap.umap",
+				"D:/Unreal/S_Live/T1/Content/Blueprints/BP_T1Character.uasset",
+				"D:/Unreal/S_Live/T1/Content/Input/Actions/IA_Move.uasset",
+				"D:/Unreal/S_Live/T1/Content/Input/Actions/IA_Turn.uasset",
+				"D:/Unreal/S_Live/T1/Content/Input/Actions/IA_Fire.uasset",
+				"D:/Unreal/S_Live/T1/Content/Input/Actions/IA_Jump.uasset",
+				"D:/Unreal/S_Live/T1/Content/Input/IMC_Default.uasset",
+				"D:/Unreal/S_Live/T1/Content/Blueprints/BP_T1GameMode.uasset",
+				"D:/Unreal/S_Live/T1/Content/Animation/ABP_T1Character.uasset",
+				"D:/Unreal/S_Live/T1/Content/ParagonLtBelica/Characters/Heroes/Belica/Animations/Idle.uasset",
+				"D:/Unreal/S_Live/T1/Content/Animation/BS_Move.uasset",
+				"D:/Unreal/S_Live/T1/Content/Blueprints/BP_T1PlayerController.uasset",
+				"D:/Unreal/S_Live/T1/Content/Animation/T1_Primary_Fire_Fast.uasset",
+				"D:/Unreal/S_Live/T1/Content/Animation/T1_Primary_Fire_Med.uasset",
+				"D:/Unreal/S_Live/T1/Content/Animation/AM_Fire.uasset",
+				"D:/Unreal/S_Live/T1/Content/ParagonLtBelica/Characters/Heroes/Belica/Meshes/Belica_Skeleton.uasset",
+				"D:/Unreal/S_Live/T1/Content/Blueprints/BP_TestBox.uasset",
+				"D:/Unreal/S_Live/T1/Content/Blueprints/BP_T1Bullet.uasset"
+			]
+		}
+	]
+}
